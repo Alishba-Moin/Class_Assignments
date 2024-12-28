@@ -36,7 +36,7 @@ export default function Home() {
     100% Your Data
     </h1>
     <p className="text-[18px] leading-[30px] text-[#212529] tracking-tight">
-    The app is open source and notes are saved to an open format, you'll always have access to them. Uses End-To_End Encription (E2EE) to secure your notes and ensure no-one but yourself can access them.
+The app is open source and notes are saved to an open format, you&apos;ll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.
     </p>
 
   <button className="flex items-center justify-center gap-2 py-5 px-10 bg-[#4F9CF9] rounded-lg text-white font-medium text-[18px] leading-6">
