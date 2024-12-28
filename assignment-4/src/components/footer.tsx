@@ -1,8 +1,5 @@
 import Image from "next/image"
 import Link from 'next/link';
-import { ImAndroid } from "react-icons/im";
-import { GrApple } from "react-icons/gr";
-
 
 function Footer() {
   return (
